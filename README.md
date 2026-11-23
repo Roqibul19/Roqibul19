@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 🤝 I’m looking for help your projects.
-
 - 💬 Ask me about **React, Next.js, Node.js**
 
 - 📫 How to reach me **roqibul192@gmail.com**
