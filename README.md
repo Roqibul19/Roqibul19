@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [a microjob website](micropeaks.com)
 
-- 🌱 I’m currently learning **React, Next.js, Node.js**
+- 🌱 **React, Next.js, Node.js**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 🤝 I’m looking for help with **Next.js**
+- 🤝 I’m looking for help your projects.
 
 - 💬 Ask me about **React, Next.js, Node.js**
 
